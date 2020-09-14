@@ -25,6 +25,7 @@ import android.os.Handler;
 import android.os.Looper;
 import android.os.Message;
 import android.os.PersistableBundle;
+import android.os.SystemProperties;
 import android.telecom.CallAudioState;
 import android.telecom.ConferenceParticipant;
 import android.telecom.Connection;
